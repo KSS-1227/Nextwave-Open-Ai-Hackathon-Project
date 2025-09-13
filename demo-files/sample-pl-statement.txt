@@ -1,0 +1,80 @@
+==============================================
+    RAJESH ELECTRONICS SHOP
+      Monthly P&L Statement
+==============================================
+
+Period: November 2024
+Report Generated: 2024-12-09
+Business Type: Electronics Retail
+
+REVENUE BREAKDOWN:
+----------------------------------------------
+Mobile Phones Sales              ₹3,45,000
+Accessories Sales               ₹1,89,500
+Repair Services                 ₹   67,800
+Extended Warranties             ₹   45,200
+----------------------------------------------
+GROSS REVENUE:                  ₹6,47,500
+
+COST OF GOODS SOLD:
+----------------------------------------------
+Product Purchase Cost           ₹4,85,000
+Import Duties & Taxes          ₹   38,500
+Transportation                 ₹   12,300
+----------------------------------------------
+TOTAL COGS:                    ₹5,35,800
+
+GROSS PROFIT:                  ₹1,11,700
+Gross Profit Margin:               17.3%
+
+OPERATING EXPENSES:
+----------------------------------------------
+Shop Rent                      ₹   25,000
+Electricity                    ₹    8,500
+Staff Salaries                 ₹   45,000
+Marketing & Advertising        ₹   12,000
+Insurance                      ₹    3,500
+Maintenance                    ₹    4,200
+Phone & Internet               ₹    2,800
+----------------------------------------------
+TOTAL OPERATING EXPENSES:      ₹1,01,000
+
+NET PROFIT:                    ₹   10,700
+Net Profit Margin:                  1.7%
+
+CASH FLOW ANALYSIS:
+----------------------------------------------
+Opening Balance (Nov 1):       ₹   45,000
+Total Inflows:                 ₹6,47,500
+Total Outflows:                ₹6,36,800
+Closing Balance (Nov 30):      ₹   55,700
+
+PERFORMANCE METRICS:
+----------------------------------------------
+Inventory Turnover Ratio:           2.3x
+Average Daily Sales:            ₹   21,583
+Best Selling Category:          Mobile Phones
+Customer Footfall:              1,250 visitors
+Conversion Rate:                    18.4%
+
+GST SUMMARY:
+----------------------------------------------
+GST Collected:                  ₹1,16,550
+GST Paid on Purchases:          ₹   96,444
+Net GST Payable:               ₹   20,106
+
+RECOMMENDATIONS:
+----------------------------------------------
+1. Focus on high-margin accessories
+2. Optimize inventory levels
+3. Increase repair service promotion
+4. Negotiate better supplier terms
+
+Business Registration:
+GSTIN: 07ABCDE1234F1Z5
+PAN: ABCDE1234F
+Shop License: DL-2023-ELE-4567
+
+Prepared by: Rajesh Kumar (Owner)
+Verified by: CA Suresh Sharma
+==============================================

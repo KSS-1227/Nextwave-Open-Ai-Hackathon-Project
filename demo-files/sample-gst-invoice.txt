@@ -1,0 +1,93 @@
+===============================================
+           TAX INVOICE
+     RAJESH ELECTRONICS SHOP
+===============================================
+
+Invoice No: INV/2024/001128
+Date: 08-12-2024
+Place of Supply: Delhi (07)
+
+SUPPLIER DETAILS:
+Name: Rajesh Electronics Shop
+Address: Shop No. 45, Electronics Market
+         Nehru Place, New Delhi - 110019
+GSTIN: 07ABCDE1234F1Z5
+State: Delhi (07)
+Phone: +91-11-2645-8790
+
+BUYER DETAILS:
+Name: Tech Solutions Pvt Ltd
+Address: B-102, Sector 63
+         Noida, UP - 201301
+GSTIN: 09FGHIJ5678K2L6
+State: Uttar Pradesh (09)
+Phone: +91-120-4567890
+
+ITEM DETAILS:
+===============================================
+S.  Description         HSN    Qty  Rate    Amount
+No.                     Code              (₹)
+-----------------------------------------------
+1.  iPhone 15 Pro       8517    2   89,900  179,800
+    (256GB Space Black)
+
+2.  Samsung Galaxy      8517    1   54,999   54,999
+    S24 Ultra (512GB)
+
+3.  OnePlus 12          8517    1   64,999   64,999
+    (16GB+512GB)
+
+4.  Wireless Chargers   8504    5    2,499   12,495
+    (Fast Charging)
+
+5.  Premium Phone       3926   10      899    8,990
+    Cases (Leather)
+
+6.  Screen Protectors   7019   15      199    2,985
+    (Tempered Glass)
+
+-----------------------------------------------
+                              Taxable Value: 324,268
+
+TAX CALCULATION:
+-----------------------------------------------
+CGST @ 9%:                              29,184
+SGST @ 9%:                              29,184
+-----------------------------------------------
+Total Tax Amount:                       58,368
+
+TOTAL INVOICE VALUE:                   382,636
+===============================================
+
+Amount in Words:
+Three Lakh Eighty Two Thousand Six Hundred 
+and Thirty Six Rupees Only
+
+PAYMENT TERMS:
+- Payment Due: 30 Days from Invoice Date
+- Bank Details: HDFC Bank Ltd
+- A/C No: 1234567890123456
+- IFSC: HDFC0001234
+- Branch: Nehru Place, Delhi
+
+ADDITIONAL NOTES:
+- All items come with manufacturer warranty
+- Return policy: 7 days for unused items
+- Delivery charges extra if applicable
+- This is a computer generated invoice
+
+DECLARATION:
+We declare that this invoice shows the 
+actual price of the goods described and 
+that all particulars are true and correct.
+
+For Rajesh Electronics Shop
+
+[Digital Signature]
+Rajesh Kumar
+Proprietor
+
+===============================================
+Subject to Delhi Jurisdiction
+E. & O.E.
+===============================================

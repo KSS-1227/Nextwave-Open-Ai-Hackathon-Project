@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowUmdGlobalAccess": false,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "alwaysStrict": true,
+    "assumeChangesOnlyAffectDirectDependencies": false,
+    "checkJs": false,
+    "experimentalDecorators": false,
+    "importsNotUsedAsValues": "remove",
+    "jsx": "react",
+    "lib": ["deno.window"],
+    "noFallthroughCasesInSwitch": false,
+    "noImplicitAny": true,
+    "noImplicitOverride": false,
+    "noImplicitReturns": false,
+    "noImplicitThis": true,
+    "noStrictGenericChecks": false,
+    "noUncheckedIndexedAccess": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "suppressExcessPropertyErrors": false,
+    "suppressImplicitAnyIndexErrors": false,
+    "useUnknownInCatchVariables": false
+  }
+}

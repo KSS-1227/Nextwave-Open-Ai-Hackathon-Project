@@ -1,0 +1,62 @@
+===============================================
+        RAJESH ELECTRONICS SHOP
+           Daily Sales Receipt
+===============================================
+
+Date: 2024-12-09
+Receipt No: RES-2024-001256
+Time: 14:30 IST
+
+Customer: Walk-in Customer
+Payment Method: UPI (PhonePe)
+
+ITEMS SOLD:
+-------------------------------------------
+1. Samsung Galaxy A14 (5G)        ₹16,999
+   Qty: 1
+   
+2. Mobile Cover + Screen Guard     ₹   799
+   Qty: 1 Set
+   
+3. Fast Charging Cable             ₹   599
+   Qty: 1
+
+4. Bluetooth Earbuds               ₹ 2,299
+   Qty: 1
+
+-------------------------------------------
+Subtotal:                         ₹20,696
+GST (18%):                         ₹ 3,725
+-------------------------------------------
+TOTAL AMOUNT:                      ₹24,421
+-------------------------------------------
+
+PAYMENT DETAILS:
+UPI Transaction ID: 4567891234567890
+Payment Status: SUCCESS
+Customer Phone: +91-98765-43210
+
+COST BREAKDOWN (Internal):
+-------------------------------------------
+Product Cost:                      ₹17,500
+GST Paid to Supplier:              ₹ 3,150
+Net GST Liability:                 ₹   575
+Gross Profit:                      ₹ 3,196
+Profit Margin:                     13.1%
+
+BUSINESS METRICS:
+Daily Target: ₹25,000
+Achievement: 97.7%
+Month-to-Date Sales: ₹4,89,750
+
+-------------------------------------------
+Thank you for your business!
+Visit us again at:
+Shop No. 45, Electronics Market
+Nehru Place, New Delhi - 110019
+Phone: +91-11-2645-8790
+GSTIN: 07ABCDE1234F1Z5
+
+Software: VirtualCFO POS v2.1
+Operator: Rajesh Kumar
+===============================================

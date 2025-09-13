@@ -1,0 +1,79 @@
+# Supabase Configuration for VirtualCFO
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+port = 54322
+shadow_port = 54320
+major_version = 15
+
+[studio]
+enabled = true
+port = 54323
+api_url = "http://localhost:54321"
+
+[inbucket]
+enabled = true
+port = 54324
+smtp_port = 54325
+pop3_port = 54326
+
+[storage]
+enabled = true
+port = 54327
+image_transformation = {
+  enabled = true
+}
+
+[auth]
+enabled = true
+site_url = "http://localhost:3000"
+additional_redirect_urls = ["https://your-domain.com"]
+jwt_expiry = 3600
+enable_signup = true
+enable_email_confirmations = false
+enable_sms_confirmations = false
+
+[auth.email]
+enable_signup = true
+double_confirm_changes = true
+enable_confirmations = false
+
+# Edge Functions Configuration
+[functions]
+verify_jwt = false
+
+# Database Project Configuration
+project_id = "yjyxgloxiiubmdhcnoqx"
+
+# Environment Variables for Edge Functions
+[env]
+SUPABASE_URL = "http://localhost:54321"
+SUPABASE_ANON_KEY = "your-anon-key"
+SUPABASE_SERVICE_ROLE_KEY = "your-service-role-key"
+
+# SMTP Configuration
+SMTP_HOST = "smtp.gmail.com"
+SMTP_PORT = "465"
+SMTP_SECURE = "true"
+SMTP_USERNAME = "sherigarakarthik17@gmail.com"
+SMTP_PASSWORD = "jrft bmdy skgc jppn"
+
+# WhatsApp Configuration
+WHATSAPP_PHONE_NUMBER_ID = "your-phone-number-id"
+WHATSAPP_ACCESS_TOKEN = "your-access-token"
+WHATSAPP_VERIFY_TOKEN = "your-verify-token"
+WHATSAPP_WEBHOOK_URL = "https://your-domain.com/webhook/whatsapp"
+
+# Cron Job Configuration
+CRON_SECRET = "your-secure-cron-secret"
+FRONTEND_URL = "http://localhost:3000"
+
+# Rate Limiting
+[functions.rate_limiting]
+enabled = true
+requests_per_minute = 100
